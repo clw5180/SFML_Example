@@ -27,6 +27,14 @@ int main()
 
 	while (window.isOpen())
 	{
+		//Handle events
+		sf::Event event;
+		while (window.pollEvent(event))
+		{
+			if (event.type == sf::Event::Closed)
+				window.close();
+		}
+		
 		//Update frame
 		playerRect.move(1, 0); //总是向右移动
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Down))
