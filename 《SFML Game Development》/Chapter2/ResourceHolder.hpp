@@ -1,5 +1,5 @@
-#ifndef BOOK_RESOURCEHOLDER_HPP
-#define BOOK_RESOURCEHOLDER_HPP
+#ifndef _RESOURCEHOLDER_HPP_
+#define _RESOURCEHOLDER_HPP_
 
 #include <map>
 #include <string>

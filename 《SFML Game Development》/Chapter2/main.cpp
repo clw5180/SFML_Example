@@ -1,8 +1,6 @@
 #include <SFML/Graphics.hpp>
-
 #include <iostream>
-
-#include "ResourceHolder.hpp"
+#include "resourceholder.hpp"
 
 // Resource ID for sf::Texture
 namespace Textures
