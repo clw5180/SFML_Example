@@ -1,8 +1,2 @@
-# SFML_Example
-simple source code of SFML examples
-
-⭐️ 2d游戏 Cendrics2 测试截图
-
-![这里随便写文字](https://github.com/clw5180/SFML_Example/blob/master/screenshot/1.png)  
-
-![这里随便写文字](https://github.com/clw5180/SFML_Example/blob/master/screenshot/2.png)  
+# Deprecated
+please see: https://github.com/clw5180/SDL_And_SFML_RPG_Game
